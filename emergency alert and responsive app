@@ -1,0 +1,824 @@
+<project version="4">
+<component name="DeviceStreaming">
+<option name="deviceSelectionList">
+<list>
+<PersistentDeviceSelectionData>
+<option name="api" value="27"/>
+<option name="brand" value="DOCOMO"/>
+<option name="codename" value="F01L"/>
+<option name="id" value="F01L"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="FUJITSU"/>
+<option name="name" value="F-01L"/>
+<option name="screenDensity" value="360"/>
+<option name="screenX" value="720"/>
+<option name="screenY" value="1280"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="OPPO"/>
+<option name="codename" value="OP573DL1"/>
+<option name="id" value="OP573DL1"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="OPPO"/>
+<option name="name" value="CPH2557"/>
+<option name="screenDensity" value="480"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="28"/>
+<option name="brand" value="DOCOMO"/>
+<option name="codename" value="SH-01L"/>
+<option name="id" value="SH-01L"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="SHARP"/>
+<option name="name" value="AQUOS sense2 SH-01L"/>
+<option name="screenDensity" value="480"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2160"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="Lenovo"/>
+<option name="codename" value="TB370FU"/>
+<option name="formFactor" value="Tablet"/>
+<option name="id" value="TB370FU"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Lenovo"/>
+<option name="name" value="Tab P12"/>
+<option name="screenDensity" value="340"/>
+<option name="screenX" value="1840"/>
+<option name="screenY" value="2944"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="a15"/>
+<option name="id" value="a15"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="A15"/>
+<option name="screenDensity" value="450"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2340"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="a35x"/>
+<option name="id" value="a35x"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="A35"/>
+<option name="screenDensity" value="450"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2340"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="31"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="a51"/>
+<option name="id" value="a51"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy A51"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="google"/>
+<option name="codename" value="akita"/>
+<option name="id" value="akita"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 8a"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="motorola"/>
+<option name="codename" value="arcfox"/>
+<option name="id" value="arcfox"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Motorola"/>
+<option name="name" value="razr plus 2024"/>
+<option name="screenDensity" value="360"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="1272"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="b0q"/>
+<option name="id" value="b0q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy S22 Ultra"/>
+<option name="screenDensity" value="600"/>
+<option name="screenX" value="1440"/>
+<option name="screenY" value="3088"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="32"/>
+<option name="brand" value="google"/>
+<option name="codename" value="bluejay"/>
+<option name="id" value="bluejay"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 6a"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="google"/>
+<option name="codename" value="caiman"/>
+<option name="id" value="caiman"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 9 Pro"/>
+<option name="screenDensity" value="360"/>
+<option name="screenX" value="960"/>
+<option name="screenY" value="2142"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="google"/>
+<option name="codename" value="comet"/>
+<option name="default" value="true"/>
+<option name="id" value="comet"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 9 Pro Fold"/>
+<option name="screenDensity" value="390"/>
+<option name="screenX" value="2076"/>
+<option name="screenY" value="2152"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="29"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="crownqlteue"/>
+<option name="id" value="crownqlteue"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy Note9"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="2220"/>
+<option name="screenY" value="1080"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="dm2q"/>
+<option name="id" value="dm2q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="S23 Plus"/>
+<option name="screenDensity" value="450"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2340"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="dm3q"/>
+<option name="id" value="dm3q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy S23 Ultra"/>
+<option name="screenDensity" value="600"/>
+<option name="screenX" value="1440"/>
+<option name="screenY" value="3088"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="e1q"/>
+<option name="default" value="true"/>
+<option name="id" value="e1q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy S24"/>
+<option name="screenDensity" value="480"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2340"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="e3q"/>
+<option name="id" value="e3q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy S24 Ultra"/>
+<option name="screenDensity" value="450"/>
+<option name="screenX" value="1440"/>
+<option name="screenY" value="3120"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="google"/>
+<option name="codename" value="eos"/>
+<option name="id" value="eos"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Eos"/>
+<option name="screenDensity" value="320"/>
+<option name="screenX" value="384"/>
+<option name="screenY" value="384"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="google"/>
+<option name="codename" value="felix"/>
+<option name="id" value="felix"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel Fold"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="2208"/>
+<option name="screenY" value="1840"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="google"/>
+<option name="codename" value="felix"/>
+<option name="id" value="felix"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel Fold"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="2208"/>
+<option name="screenY" value="1840"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="google"/>
+<option name="codename" value="felix_camera"/>
+<option name="id" value="felix_camera"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel Fold (Camera-enabled)"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="2208"/>
+<option name="screenY" value="1840"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="motorola"/>
+<option name="codename" value="fogona"/>
+<option name="id" value="fogona"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Motorola"/>
+<option name="name" value="moto g play - 2024"/>
+<option name="screenDensity" value="280"/>
+<option name="screenX" value="720"/>
+<option name="screenY" value="1600"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="g0q"/>
+<option name="id" value="g0q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="SM-S906U1"/>
+<option name="screenDensity" value="450"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2340"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="gts7xllite"/>
+<option name="id" value="gts7xllite"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="SM-T738U"/>
+<option name="screenDensity" value="340"/>
+<option name="screenX" value="1600"/>
+<option name="screenY" value="2560"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="gts8uwifi"/>
+<option name="formFactor" value="Tablet"/>
+<option name="id" value="gts8uwifi"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy Tab S8 Ultra"/>
+<option name="screenDensity" value="320"/>
+<option name="screenX" value="1848"/>
+<option name="screenY" value="2960"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="gts8wifi"/>
+<option name="formFactor" value="Tablet"/>
+<option name="id" value="gts8wifi"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy Tab S8"/>
+<option name="screenDensity" value="274"/>
+<option name="screenX" value="1600"/>
+<option name="screenY" value="2560"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="google"/>
+<option name="codename" value="husky"/>
+<option name="id" value="husky"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 8 Pro"/>
+<option name="screenDensity" value="390"/>
+<option name="screenX" value="1008"/>
+<option name="screenY" value="2244"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="30"/>
+<option name="brand" value="motorola"/>
+<option name="codename" value="java"/>
+<option name="id" value="java"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Motorola"/>
+<option name="name" value="G20"/>
+<option name="screenDensity" value="280"/>
+<option name="screenX" value="720"/>
+<option name="screenY" value="1600"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="google"/>
+<option name="codename" value="komodo"/>
+<option name="id" value="komodo"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 9 Pro XL"/>
+<option name="screenDensity" value="360"/>
+<option name="screenX" value="1008"/>
+<option name="screenY" value="2244"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="google"/>
+<option name="codename" value="lynx"/>
+<option name="id" value="lynx"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 7a"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="motorola"/>
+<option name="codename" value="maui"/>
+<option name="id" value="maui"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Motorola"/>
+<option name="name" value="moto g play - 2023"/>
+<option name="screenDensity" value="280"/>
+<option name="screenX" value="720"/>
+<option name="screenY" value="1600"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="o1q"/>
+<option name="id" value="o1q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy S21"/>
+<option name="screenDensity" value="421"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="31"/>
+<option name="brand" value="google"/>
+<option name="codename" value="oriole"/>
+<option name="id" value="oriole"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 6"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="google"/>
+<option name="codename" value="panther"/>
+<option name="id" value="panther"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 7"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="q5q"/>
+<option name="id" value="q5q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy Z Fold5"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1812"/>
+<option name="screenY" value="2176"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="q6q"/>
+<option name="id" value="q6q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy Z Fold6"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1856"/>
+<option name="screenY" value="2160"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="30"/>
+<option name="brand" value="google"/>
+<option name="codename" value="r11"/>
+<option name="formFactor" value="Wear OS"/>
+<option name="id" value="r11"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel Watch"/>
+<option name="screenDensity" value="320"/>
+<option name="screenX" value="384"/>
+<option name="screenY" value="384"/>
+<option name="type" value="WEAR_OS"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="r11q"/>
+<option name="id" value="r11q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="SM-S711U"/>
+<option name="screenDensity" value="450"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2340"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="30"/>
+<option name="brand" value="google"/>
+<option name="codename" value="redfin"/>
+<option name="id" value="redfin"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 5"/>
+<option name="screenDensity" value="440"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2340"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="google"/>
+<option name="codename" value="shiba"/>
+<option name="id" value="shiba"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 8"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="samsung"/>
+<option name="codename" value="t2q"/>
+<option name="id" value="t2q"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Samsung"/>
+<option name="name" value="Galaxy S21 Plus"/>
+<option name="screenDensity" value="394"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2400"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="33"/>
+<option name="brand" value="google"/>
+<option name="codename" value="tangorpro"/>
+<option name="formFactor" value="Tablet"/>
+<option name="id" value="tangorpro"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel Tablet"/>
+<option name="screenDensity" value="320"/>
+<option name="screenX" value="1600"/>
+<option name="screenY" value="2560"/>
+</PersistentDeviceSelectionData>
+<PersistentDeviceSelectionData>
+<option name="api" value="34"/>
+<option name="brand" value="google"/>
+<option name="codename" value="tokay"/>
+<option name="default" value="true"/>
+<option name="id" value="tokay"/>
+<option name="labId" value="google"/>
+<option name="manufacturer" value="Google"/>
+<option name="name" value="Pixel 9"/>
+<option name="screenDensity" value="420"/>
+<option name="screenX" value="1080"/>
+<option name="screenY" value="2424"/>
+</PersistentDeviceSelectionData>
+</list>
+</option>
+</component>
+</project>
+
+
+<project version="4">
+<component name="WizardSettings">
+<option name="children">
+<map>
+<entry key="imageWizard">
+<value>
+<PersistentState/>
+</value>
+</entry>
+<entry key="vectorWizard">
+<value>
+<PersistentState>
+<option name="children">
+<map>
+<entry key="vectorAssetStep">
+<value>
+<PersistentState>
+<option name="children">
+<map>
+<entry key="clipartAsset">
+<value>
+<PersistentState>
+<option name="values">
+<map>
+<entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/add_alert/baseline_add_alert_24.xml"/>
+</map>
+</option>
+</PersistentState>
+</value>
+</entry>
+</map>
+</option>
+<option name="values">
+<map>
+<entry key="outputName" value="baseline_add_alert_24"/>
+<entry key="sourceFile" value="P:\Pravas D S\images\sos-button-svgrepo-com.svg"/>
+</map>
+</option>
+</PersistentState>
+</value>
+</entry>
+</map>
+</option>
+</PersistentState>
+</value>
+</entry>
+</map>
+</option>
+</component>
+</project>
+
+<project version="4">
+<component name="CompilerConfiguration">
+<bytecodeTargetLevel target="21"/>
+</component>
+</project>
+
+<project version="4">
+<component name="deploymentTargetSelector">
+<selectionStates>
+<SelectionState runConfigName="app">
+<option name="selectionMode" value="DROPDOWN"/>
+</SelectionState>
+</selectionStates>
+</component>
+</project>
+
+
+<project version="4">
+<component name="GradleMigrationSettings" migrationVersion="1"/>
+<component name="GradleSettings">
+<option name="linkedExternalProjectsSettings">
+<GradleProjectSettings>
+<option name="testRunner" value="CHOOSE_PER_TEST"/>
+<option name="externalProjectPath" value="$PROJECT_DIR$"/>
+<option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME"/>
+<option name="modules">
+<set>
+<option value="$PROJECT_DIR$"/>
+<option value="$PROJECT_DIR$/app"/>
+</set>
+</option>
+<option name="resolveExternalAnnotations" value="false"/>
+</GradleProjectSettings>
+</option>
+</component>
+</project>
+
+<project version="4">
+<component name="ProjectMigrations">
+<option name="MigrateToGradleLocalJavaHome">
+<set>
+<option value="$PROJECT_DIR$"/>
+</set>
+</option>
+</component>
+</project>
+
+<project version="4">
+<component name="ExternalStorageConfigurationManager" enabled="true"/>
+<component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+<output url="file://$PROJECT_DIR$/build/classes"/>
+</component>
+<component name="ProjectType">
+<option name="id" value="Android"/>
+</component>
+</project>
+
+<project version="4">
+<component name="RunConfigurationProducerService">
+<option name="ignoredProducers">
+<set>
+<option value="com.intellij.execution.junit.AbstractAllInDirectoryConfigurationProducer"/>
+<option value="com.intellij.execution.junit.AllInPackageConfigurationProducer"/>
+<option value="com.intellij.execution.junit.PatternConfigurationProducer"/>
+<option value="com.intellij.execution.junit.TestInClassConfigurationProducer"/>
+<option value="com.intellij.execution.junit.UniqueIdConfigurationProducer"/>
+<option value="com.intellij.execution.junit.testDiscovery.JUnitTestDiscoveryConfigurationProducer"/>
+<option value="org.jetbrains.kotlin.idea.junit.KotlinJUnitRunConfigurationProducer"/>
+<option value="org.jetbrains.kotlin.idea.junit.KotlinPatternConfigurationProducer"/>
+</set>
+</option>
+</component>
+</project>
+
+<project version="4">
+<component name="AndroidLayouts">
+<shared>
+<config/>
+</shared>
+<layouts>
+<layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+<config>
+<theme>@style/Theme.EmergencyAlertAndResponibleNetworkApp</theme>
+</config>
+</layout>
+</layouts>
+</component>
+<component name="AutoImportSettings">
+<option name="autoReloadType" value="NONE"/>
+</component>
+<component name="ChangeListManager">
+<list default="true" id="defab739-4bea-4ac3-a1a0-28612b69fd60" name="Changes" comment=""/>
+<option name="SHOW_DIALOG" value="false"/>
+<option name="HIGHLIGHT_CONFLICTS" value="true"/>
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+<option name="LAST_RESOLUTION" value="IGNORE"/>
+</component>
+<component name="ClangdSettings">
+<option name="formatViaClangd" value="false"/>
+</component>
+<component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\prava\.android\avd\Pixel_6_Pro_API_34.avd)]"/>
+<component name="ExternalProjectsData">
+<projectState path="$PROJECT_DIR$">
+<ProjectState/>
+</projectState>
+</component>
+<component name="FileTemplateManagerImpl">
+<option name="RECENT_TEMPLATES">
+<list>
+<option value="Class"/>
+</list>
+</option>
+</component>
+<component name="ProblemsViewState">
+<option name="selectedTabId" value="CurrentFile"/>
+</component>
+<component name="ProjectColorInfo">{ "associatedIndex": 7 }</component>
+<component name="ProjectId" id="2tgBUPkKYseGc3JfnQg6TtIginE"/>
+<component name="ProjectViewState">
+<option name="hideEmptyMiddlePackages" value="true"/>
+<option name="showLibraryContents" value="true"/>
+</component>
+<component name="PropertiesComponent">
+<![CDATA[ { "keyToString": { "Android App.app.executor": "Run", "RunOnceActivity.ShowReadmeOnStart": "true", "RunOnceActivity.cidr.known.project.marker": "true", "RunOnceActivity.readMode.enableVisualFormatting": "true", "cf.first.check.clang-format": "false", "cidr.known.project.marker": "true", "dart.analysis.tool.window.visible": "false", "kotlin-language-version-configured": "true", "last_opened_file_path": "C:/Users/prava/StudioProjects/CustomToolBarExample", "show.migrate.to.gradle.popup": "false" } } ]]>
+</component>
+<component name="RunManager">
+<configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+<module name="Emergency_alert_and_responible_network_app.app"/>
+<option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1"/>
+<option name="DEPLOY" value="true"/>
+<option name="DEPLOY_APK_FROM_BUNDLE" value="false"/>
+<option name="DEPLOY_AS_INSTANT" value="false"/>
+<option name="ARTIFACT_NAME" value=""/>
+<option name="PM_INSTALL_OPTIONS" value=""/>
+<option name="ALL_USERS" value="false"/>
+<option name="ALWAYS_INSTALL_WITH_PM" value="false"/>
+<option name="ALLOW_ASSUME_VERIFIED" value="false"/>
+<option name="CLEAR_APP_STORAGE" value="false"/>
+<option name="DYNAMIC_FEATURES_DISABLED_LIST" value=""/>
+<option name="ACTIVITY_EXTRA_FLAGS" value=""/>
+<option name="MODE" value="default_activity"/>
+<option name="RESTORE_ENABLED" value="false"/>
+<option name="RESTORE_FILE" value=""/>
+<option name="CLEAR_LOGCAT" value="false"/>
+<option name="SHOW_LOGCAT_AUTOMATICALLY" value="false"/>
+<option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX"/>
+<option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1"/>
+<option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value=""/>
+<option name="DEBUGGER_TYPE" value="Auto"/>
+<Auto>
+<option name="USE_JAVA_AWARE_DEBUGGER" value="false"/>
+<option name="SHOW_STATIC_VARS" value="true"/>
+<option name="WORKING_DIR" value=""/>
+<option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets"/>
+<option name="SHOW_OPTIMIZED_WARNING" value="true"/>
+<option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false"/>
+<option name="DEBUG_SANDBOX_SDK" value="false"/>
+</Auto>
+<Hybrid>
+<option name="USE_JAVA_AWARE_DEBUGGER" value="false"/>
+<option name="SHOW_STATIC_VARS" value="true"/>
+<option name="WORKING_DIR" value=""/>
+<option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets"/>
+<option name="SHOW_OPTIMIZED_WARNING" value="true"/>
+<option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false"/>
+<option name="DEBUG_SANDBOX_SDK" value="false"/>
+</Hybrid>
+<Java>
+<option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false"/>
+<option name="DEBUG_SANDBOX_SDK" value="false"/>
+</Java>
+<Native>
+<option name="USE_JAVA_AWARE_DEBUGGER" value="false"/>
+<option name="SHOW_STATIC_VARS" value="true"/>
+<option name="WORKING_DIR" value=""/>
+<option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets"/>
+<option name="SHOW_OPTIMIZED_WARNING" value="true"/>
+<option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false"/>
+<option name="DEBUG_SANDBOX_SDK" value="false"/>
+</Native>
+<Profilers>
+<option name="ADVANCED_PROFILING_ENABLED" value="false"/>
+<option name="STARTUP_PROFILING_ENABLED" value="false"/>
+<option name="STARTUP_CPU_PROFILING_ENABLED" value="false"/>
+<option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)"/>
+<option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false"/>
+<option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048"/>
+</Profilers>
+<option name="DEEP_LINK" value=""/>
+<option name="ACTIVITY" value=""/>
+<option name="ACTIVITY_CLASS" value=""/>
+<option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false"/>
+<option name="SKIP_ACTIVITY_VALIDATION" value="false"/>
+<method v="2">
+<option name="Android.Gradle.BeforeRunTask" enabled="true"/>
+</method>
+</configuration>
+</component>
+<component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true"/>
+<component name="TaskManager">
+<task active="true" id="Default" summary="Default task">
+<changelist id="defab739-4bea-4ac3-a1a0-28612b69fd60" name="Changes" comment=""/>
+<created>1740763852292</created>
+<option name="number" value="Default"/>
+<option name="presentableId" value="Default"/>
+<updated>1740763852292</updated>
+</task>
+<servers/>
+</component>
+<component name="play_dynamic_filters_status">
+<option name="appIdToCheckInfo">
+<map>
+<entry key="com.devdroid.emergencyalertandresponiblenetworkapp">
+<value>
+<CheckInfo lastCheckTimestamp="1740763931979"/>
+</value>
+</entry>
+<entry key="com.devdroid.emergencyalertandresponiblenetworkapp.test">
+<value>
+<CheckInfo lastCheckTimestamp="1740763931979"/>
+</value>
+</entry>
+</map>
+</option>
+</component>
+</project>
